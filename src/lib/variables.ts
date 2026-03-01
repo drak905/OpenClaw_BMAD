@@ -15,8 +15,8 @@ import type { BmadState } from "../types.ts";
  */
 const DEFAULTS: Record<string, string> = {
   user_name: "User",
-  communication_language: "english",
-  document_output_language: "english",
+  communication_language: "vietnamese",
+  document_output_language: "vietnamese",
   user_skill_level: "expert",
   output_folder: "_bmad-output",
 };

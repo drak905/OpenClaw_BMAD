@@ -63,7 +63,7 @@ describe("buildVariables", () => {
     expect(vars["project_name"]).toBe("TestProject");
     expect(vars["user_name"]).toBe("User");
     expect(vars["user_skill_level"]).toBe("expert");
-    expect(vars["communication_language"]).toBe("english");
+    expect(vars["communication_language"]).toBe("vietnamese");
     expect(vars["output_folder"]).toBe("_bmad-output");
   });
 

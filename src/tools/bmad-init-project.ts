@@ -82,8 +82,8 @@ export async function execute(
 
 project_name: "${projectName}"
 user_name: "User"
-communication_language: "english"
-document_output_language: "english"
+communication_language: "vietnamese"
+document_output_language: "vietnamese"
 user_skill_level: "expert"
 output_folder: "_bmad-output"
 planning_artifacts: "${join(projectPath, "_bmad-output/planning-artifacts")}"
